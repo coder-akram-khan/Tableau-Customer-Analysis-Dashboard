@@ -1,4 +1,5 @@
 # Customer Analysis Dashboard
+![dashboard](https://github.com/coder-akram-khan/Tableau-Customer-Analysis-Dashboard/blob/main/Dashboard%201.png?raw=true)
 
 ## Description
 This repository contains a **Customer Analysis Dashboard** built using **Tableau**, offering data-driven insights into customer purchase behavior and revenue trends.
